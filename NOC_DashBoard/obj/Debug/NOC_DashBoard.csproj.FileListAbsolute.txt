@@ -1,0 +1,8 @@
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\bin\Debug\NOC_DashBoard.exe.config
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\bin\Debug\NOC_DashBoard.exe
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\bin\Debug\NOC_DashBoard.pdb
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\obj\Debug\NOC_DashBoard.csprojResolveAssemblyReference.cache
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\obj\Debug\NOC_DashBoard.MainForm.resources
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\obj\Debug\NOC_DashBoard.csproj.GenerateResource.Cache
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\obj\Debug\NOC_DashBoard.exe
+C:\Tel&Com_desenvolvimento_noc\NOC_DashBoard\NOC_DashBoard\obj\Debug\NOC_DashBoard.pdb
